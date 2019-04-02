@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="15944cf7-5871-464c-a87d-dae6aa0b6892" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/modules/gestorBD.js" beforeDir="false" afterPath="$PROJECT_DIR$/modules/gestorBD.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routes/rcanciones.js" beforeDir="false" afterPath="$PROJECT_DIR$/routes/rcanciones.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/btienda.html" beforeDir="false" afterPath="$PROJECT_DIR$/views/btienda.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.js" beforeDir="false" afterPath="$PROJECT_DIR$/app.js" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -17,11 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="284">
-              <caret line="87" column="19" selection-start-line="87" selection-start-column="19" selection-end-line="87" selection-end-column="19" />
+            <state relative-caret-position="362">
+              <caret line="117" selection-start-line="117" selection-end-line="117" />
             </state>
           </provider>
         </entry>
@@ -58,7 +56,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/views/btienda.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="629">
@@ -137,10 +135,10 @@
         <option value="$PROJECT_DIR$/views/base.html" />
         <option value="$PROJECT_DIR$/routes/rusuarios.js" />
         <option value="$PROJECT_DIR$/views/bcancion.html" />
-        <option value="$PROJECT_DIR$/app.js" />
         <option value="$PROJECT_DIR$/modules/gestorBD.js" />
         <option value="$PROJECT_DIR$/routes/rcanciones.js" />
         <option value="$PROJECT_DIR$/views/btienda.html" />
+        <option value="$PROJECT_DIR$/app.js" />
       </list>
     </option>
   </component>
@@ -258,12 +256,12 @@
       <workItem from="1553077388110" duration="89000" />
       <workItem from="1553595141273" duration="6250000" />
       <workItem from="1554106600840" duration="1301000" />
-      <workItem from="1554196414195" duration="1653000" />
+      <workItem from="1554196414195" duration="1742000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14671000" />
+    <option name="totallyTimeSpent" value="14760000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="757" y="0" width="1170" height="1047" extended-state="0" />
@@ -395,13 +393,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="284">
-          <caret line="87" column="19" selection-start-line="87" selection-start-column="19" selection-end-line="87" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/modules/gestorBD.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="629">
@@ -423,6 +414,13 @@
           <folding>
             <element signature="n#style#0;n#img#0;n#a#0;n#div#0;n#div#0;n#div#1;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="117" selection-start-line="117" selection-end-line="117" />
         </state>
       </provider>
     </entry>
