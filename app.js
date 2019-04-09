@@ -106,6 +106,7 @@ app.set('crypto', crypto);
 
 require("./routes/rusuarios.js")(app, swig, gestorBD); // Se utilizan como funciones
 require("./routes/rcanciones.js")(app, swig, gestorBD);
+require("./routes/rapicanciones.js")(app, gestorBD);
 
 app.get('/', function (req, res) {
     res.redirect('/tienda');
